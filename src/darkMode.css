@@ -1,0 +1,18 @@
+body {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+.navbar,
+.form-select,
+.form-control,
+.container,
+.card {
+    background-color: #343a40;
+    border-color: #495057;
+    color: #f8f9fa;
+}
+
+.card {
+    border-color: #212529;
+}
